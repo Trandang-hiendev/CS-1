@@ -4,11 +4,6 @@
     "delay": 3
   },
   "config": [
-    { "emoji": "", "text": "🌆 𝐂𝐢𝐭𝐲 ⭒ {city}" },
-    { "emoji": "", "text": "⌚ {hour:1}:{min:1} ⭒ {th=date}/{en=month:1}/{en=year:2}" },
-    { "emoji": "", "text": "🌐 𝐏𝐢𝐧𝐠 ⭒ {ping}" },
-    { "emoji": "", "text": "☁ 𝐂𝐥𝐨𝐮𝐝 ⭒ {cloud}" },
-    { "emoji": "", "text": "🌡️ 𝐓𝐞𝐦𝐩𝐞𝐫𝐚𝐭𝐮𝐫𝐞 ⭒ {temp:c}" },
-    { "emoji": "", "text": "🍃 𝐖𝐢𝐧𝐝 𝐅𝐨𝐫𝐜𝐞 ⭒ {wind:kph}" }
+    { "emoji": "", "text": "🕒 {uptime} 🖥️ {cpu:usage} 🗄️ {ram:usage} 🌡️ {temp:c} 🌦️ {cloud} 🌑 {hour:1} : {min:1}" }
   ]
 } 
